@@ -11,6 +11,7 @@ Linux
 sudo apt install git
 sudo apt install python
 sudo git clone https://github.com/vicuncil/dos-hunter
+cd dos-hunter
 cd DosHunter
 python doshunter.py
 
@@ -19,6 +20,7 @@ Ternux
 pkg install git -y
 pkg install python2 & python3 -y
 git clone https://github.com/vicuncil/dos-hunter
+cd dos-hunter
 cd DosHunter
 python2 doshunter.py
 
